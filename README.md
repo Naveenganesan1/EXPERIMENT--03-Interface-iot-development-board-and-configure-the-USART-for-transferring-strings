@@ -115,8 +115,8 @@ int main(void)
   
   while (1)
   {
-	  printf("MONISH R\n");
-	  printf("212223220061\n");
+	  printf("Scoft\n");
+	  printf("Saveetha enginnering college\n");
      HAL_Delay(500);
   }
 }
